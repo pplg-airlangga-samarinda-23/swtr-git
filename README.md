@@ -6,3 +6,5 @@ Buat sebuah sebuah file html dengan nama 'index.html'.
 
 Isi file html yang baru dibuat tadi dengan ketentuan:
 - title dengan nama kalian
+
+Terakhir, push pekerjaan kalian ke repo.
